@@ -9,6 +9,11 @@
 }
 .respuestas {
     font-family: 'Times New Roman';
-    height: 12;
+    height: 12px;
     background-color: crimson;
+}
+.presentacion {
+    font-family: 'Times New Roman';
+    height: 12px;
+    background-color: red;
 }
